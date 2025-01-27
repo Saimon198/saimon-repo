@@ -6,5 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>webapp_sam_lab13</RootNamespace>
   </PropertyGroup>
-
+<h1>My Gallery</h1>
+<h1>Portfolio Gallery</h1>
+<P>This is a simple .NET web project.</P>
 </Project>
